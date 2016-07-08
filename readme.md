@@ -9,7 +9,7 @@
 
 ## Usage
   ~~~js
-  var afar = require('Afar')
+  var afar = require('afar')
 
   // SF lat/lon
   var lat1 = '37.7749';
