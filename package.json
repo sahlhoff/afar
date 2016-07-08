@@ -1,0 +1,29 @@
+{
+  "name": "afar",
+  "version": "1.0.0",
+  "description": "Calculate the distance (km) between two latitude and longitude points.",
+  "main": "afar.js",
+  "dependencies": {
+    "assert": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahlhoff/afar.git"
+  },
+  "keywords": [
+    "node",
+    "distance",
+    "latitude",
+    "longitude"
+  ],
+  "author": "chad sahlhoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahlhoff/afar/issues"
+  },
+  "homepage": "https://github.com/sahlhoff/afar#readme"
+}
