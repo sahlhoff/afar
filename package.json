@@ -1,6 +1,6 @@
 {
   "name": "afar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate the distance (km) between two latitude and longitude points.",
   "main": "afar.js",
   "dependencies": {
